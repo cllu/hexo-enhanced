@@ -1,0 +1,10 @@
+{
+  "name": "chunlianglyu.com",
+  "private": true,
+  "dependencies": {
+    "fontawesome": "~4.2.0",
+    "fluidbox": "~1.4.2",
+    "jquery": "~2.1.1",
+    "normalize.css": "~3.0.2"
+  }
+}
